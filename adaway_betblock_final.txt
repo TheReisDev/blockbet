@@ -8,10 +8,6 @@
 127.0.0.1 2no.co
 127.0.0.1 betano.com
 127.0.0.1 betano.bet.br
-# Blocklist - Sites de Apostas e Cassinos
-# Atualizado em: 2025-11-28 19:49:56
-# Total de domínios: 2510
-
 127.0.0.1 001game9.com
 127.0.0.1 0066bet.com
 127.0.0.1 013bet8.com
@@ -2522,6 +2518,7 @@
 127.0.0.1 zodiaco-777.com
 127.0.0.1 zz1998.com
 127.0.0.1 zzzz999.com
+
 
 
 
