@@ -17,6 +17,8 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 2no.co
 0.0.0.0 betano.com
+0.0.0.0 betano.bet.br
+
 
 
 
