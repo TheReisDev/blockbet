@@ -1,10 +1,14 @@
 
-
-
+127.0.0.1 www.betano.bet.br
+127.0.0.1 www.betano com
+127.0.0.1 m.betano.com
+127.0.0.1 m.betano.com.br
+127.0.0.1 www.betano.com.br
 127.0.0.1 r7.bet.br
 127.0.0.1 2no.co
 127.0.0.1 betano.com
 127.0.0.1 betano.bet.br
+
 
 
 
