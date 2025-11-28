@@ -1,13 +1,7 @@
+# Blocklist - Sites de Apostas e Cassinos
+# Atualizado em: 2025-11-28 19:49:56
+# Total de domínios: 2510
 
-127.0.0.1 www.betano.bet.br
-127.0.0.1 www.betano com
-127.0.0.1 m.betano.com
-127.0.0.1 m.betano.com.br
-127.0.0.1 www.betano.com.br
-127.0.0.1 r7.bet.br
-127.0.0.1 2no.co
-127.0.0.1 betano.com
-127.0.0.1 betano.bet.br
 127.0.0.1 001game9.com
 127.0.0.1 0066bet.com
 127.0.0.1 013bet8.com
@@ -2518,15 +2512,186 @@
 127.0.0.1 zodiaco-777.com
 127.0.0.1 zz1998.com
 127.0.0.1 zzzz999.com
-
-
-
-
-
-
-
-
-
-
-
-
+127.0.0.1 www.superbet.com
+127.0.0.1 cassinopix.com
+127.0.0.1 estrelabet.com
+127.0.0.1 www.betfair.com
+127.0.0.1 www.cassinopix.com
+127.0.0.1 luckydays.bet.br
+127.0.0.1 betboo.com
+127.0.0.1 mrjack.bet
+127.0.0.1 pagbet.com
+127.0.0.1 KTO.com
+127.0.0.1 www.kto.com
+127.0.0.1 galera.bet
+127.0.0.1 idopitaco.com.br
+127.0.0.1 caesarsports.com.br
+127.0.0.1 betfair.com
+127.0.0.1 pokerstars.com
+127.0.0.1 7games.bet
+127.0.0.1 betao.com
+127.0.0.1 r7.bet
+127.0.0.1 segurobet.com
+127.0.0.1 ijogo.com
+127.0.0.1 fogo777.com
+127.0.0.1 p9.com
+127.0.0.1 9f.com
+127.0.0.1 6r.com
+127.0.0.1 bet.app
+127.0.0.1 apostaganha.bet
+127.0.0.1 brazino777.com
+127.0.0.1 betway.com
+127.0.0.1 jackpotcitycasino.com
+127.0.0.1 spinpalace.com
+127.0.0.1 seubet.com
+127.0.0.1 h2.bet
+127.0.0.1 h2bet.com
+127.0.0.1 Vbet.lat
+127.0.0.1 vivaro.com
+127.0.0.1 casadeapostas.com
+127.0.0.1 betfast.io
+127.0.0.1 faz1bet.com
+127.0.0.1 tivo.bet
+127.0.0.1 4play.bet
+127.0.0.1 pagol.bet
+127.0.0.1 estadium.bet
+127.0.0.1 joganho.bet
+127.0.0.1 oten.bet
+127.0.0.1 supremabet.com
+127.0.0.1 maximabet.net
+127.0.0.1 xpgames.bet
+127.0.0.1 betesporte.com
+127.0.0.1 lancedesorte.com
+127.0.0.1 kingpanda.com
+127.0.0.1 leovegas.com
+127.0.0.1 royalpanda.com
+127.0.0.1 betspeed.com
+127.0.0.1 sorteonline.com
+127.0.0.1 lottoland.com
+127.0.0.1 arenaplus.net.ph
+127.0.0.1 flabet.com
+127.0.0.1 betdasorte.com
+127.0.0.1 riojogos.com
+127.0.0.1 lottomaster.bet
+127.0.0.1 betagora.io
+127.0.0.1 playpix.com
+127.0.0.1 dupoc.com
+127.0.0.1 apostou.com
+127.0.0.1 b1.bet
+127.0.0.1 brbet.com
+127.0.0.1 donald.bet
+127.0.0.1 international.betwarrior.bet
+127.0.0.1 pixmile.com
+127.0.0.1 sortenabet.com
+127.0.0.1 betfusion.bet
+127.0.0.1 bandbet.com
+127.0.0.1 vivasortebet.com
+127.0.0.1 afun.com
+127.0.0.1 jonbet.com
+127.0.0.1 www.jonbet.com
+127.0.0.1 bet7k.com
+127.0.0.1 cassino.pix.com
+127.0.0.1 betvera.com
+127.0.0.1 cbet.gg
+127.0.0.1 vertbet.com
+127.0.0.1 dashboard.fund
+127.0.0.1 upbet.com
+127.0.0.1 9d.com
+127.0.0.1 wjcasino.com
+127.0.0.1 betmotion.com.br
+127.0.0.1 betman.com.br
+127.0.0.1 apostouganhou.com.br
+127.0.0.1 alfa.bet.br
+127.0.0.1 in2bet.com
+127.0.0.1 papigames.com
+127.0.0.1 mmabet.com
+127.0.0.1 bet4.com
+127.0.0.1 0WIN444.com
+127.0.0.1 1×001.com
+127.0.0.1 5500BET1.COM
+127.0.0.1 7BETO.COM
+127.0.0.1 betl8k.app
+127.0.0.1 BetPix365.com
+127.0.0.1 Betsauro.com
+127.0.0.1 BIFE777.com
+127.0.0.1 BRCRown.com
+127.0.0.1 click2bet
+127.0.0.1 hd777.com
+127.0.0.1 Dunasbet.com
+127.0.0.1 GATINHO777.COM
+127.0.0.1 Iwin.br.com
+127.0.0.1 Iwin-bet-brasileiro.com.br
+127.0.0.1 JOGO888.COM
+127.0.0.1 mej orcasinos.mx
+127.0.0.1 Pluma777.com
+127.0.0.1 sANSIONcarrd.icu
+127.0.0.1 saraycasino.org
+127.0.0.1 Shinobibet.com
+127.0.0.1 SportVip.bet
+127.0.0.1 topIOcasasdeapostas.io
+127.0.0.1 wolfcassino.com
+127.0.0.1 www.bitstarz.com
+127.0.0.1 www.cunbet6.com
+127.0.0.1 www.flashscore.com.br
+127.0.0.1 bet6k.win
+127.0.0.1 bet6k.bet
+127.0.0.1 bet6k.vip
+127.0.0.1 bragbg.app
+127.0.0.1 10brl.games
+127.0.0.1 cunbeta.com
+127.0.0.1 playing.io
+127.0.0.1 pg1.vip
+127.0.0.1 brbet365.vip
+127.0.0.1 betl 8k.app
+127.0.0.1 mejorcasinos.mx
+127.0.0.1 brapix001.com
+127.0.0.1 brapix002.com
+127.0.0.1 brapix003.com
+127.0.0.1 brapix004.com
+127.0.0.1 brapix005.com
+127.0.0.1 brapix006.com
+127.0.0.1 brapix007.com
+127.0.0.1 brapix008.com
+127.0.0.1 brapix009.com
+127.0.0.1 brapix010.com
+127.0.0.1 brapix011.com
+127.0.0.1 brapix012.com
+127.0.0.1 brapix013.com
+127.0.0.1 brapix014.com
+127.0.0.1 brapix015.com
+127.0.0.1 brapix016.com
+127.0.0.1 brapix017.com
+127.0.0.1 brapix018.com
+127.0.0.1 brapix019.com
+127.0.0.1 brapix020.com
+127.0.0.1 brapix022.com
+127.0.0.1 brapix023.com
+127.0.0.1 brapix024.com
+127.0.0.1 brapix025.com
+127.0.0.1 brapix026.com
+127.0.0.1 brapix027.com
+127.0.0.1 brapix028.com
+127.0.0.1 brapix029.com
+127.0.0.1 brapix030.com
+127.0.0.1 brapix031.com
+127.0.0.1 brapix032.com
+127.0.0.1 brapix033.com
+127.0.0.1 brapix034.com
+127.0.0.1 brapix035.com
+127.0.0.1 brapix036.com
+127.0.0.1 brapix037.com
+127.0.0.1 brapix038.com
+127.0.0.1 brapix039.com
+127.0.0.1 brapix040.com
+127.0.0.1 brapix041.com
+127.0.0.1 brapix042.com
+127.0.0.1 brapix043.com
+127.0.0.1 brapix044.com
+127.0.0.1 brapix045.com
+127.0.0.1 brapix046.com
+127.0.0.1 brapix047.com
+127.0.0.1 brapix048.com
+127.0.0.1 brapix049.com
+127.0.0.1 brapix050.com
+127.0.0.1 brapix051.com
+127.0.0.1 brapix052.com
