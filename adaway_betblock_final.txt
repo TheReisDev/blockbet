@@ -1,13 +1,14 @@
 
 
 
-172.0.0.1 r7.bet.br
+127.0.0.1 r7.bet.br
 127.0.0.1 2no.co
 127.0.0.1 betano.com
 127.0.0.1 betano.bet.br
 127.0.0.1 2no.co
 127.0.0.1 betano.com
 127.0.0.1 betano.bet.br
+
 
 
 
